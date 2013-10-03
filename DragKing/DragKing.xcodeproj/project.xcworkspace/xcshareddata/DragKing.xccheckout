@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7232DCB3-C985-4453-82E8-E62B2EEA09B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DragKing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6F7D69FC-A5E1-4D0F-9D6B-3CDB027004DC</key>
+		<string>https://github.com/cnowacek/sprite-kit-testing.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DragKing/DragKing.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6F7D69FC-A5E1-4D0F-9D6B-3CDB027004DC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cnowacek/sprite-kit-testing.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F7D69FC-A5E1-4D0F-9D6B-3CDB027004DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F7D69FC-A5E1-4D0F-9D6B-3CDB027004DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sprite-kit-testing</string>
+		</dict>
+	</array>
+</dict>
+</plist>
