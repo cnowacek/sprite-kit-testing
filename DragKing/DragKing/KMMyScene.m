@@ -44,9 +44,9 @@ static NSString * const kAnimalNodeName = @"movable";
     
     SKPhysicsBody *pBody = [SKPhysicsBody bodyWithRectangleOfSize:sprite.size];
     pBody.affectedByGravity = YES;
-    pBody.mass = 10;
+    pBody.mass = 1000;
     pBody.restitution = .1;
-    pBody.friction = 0.1;
+    pBody.friction = 0.6;
     sprite.physicsBody = pBody;
     sprite.physicsBody.dynamic = YES;
     
